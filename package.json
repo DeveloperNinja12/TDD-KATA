@@ -1,0 +1,26 @@
+{
+  "name": "tdd-kata",
+  "version": "1.0.0",
+  "description": "Incubyte test task",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest src/calculator.spec.js",
+    "start": "node src/calculator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperNinja12/TDD-KATA.git"
+  },
+  "keywords": [
+    "testTask"
+  ],
+  "author": "DeveloperNinja12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperNinja12/TDD-KATA/issues"
+  },
+  "homepage": "https://github.com/DeveloperNinja12/TDD-KATA#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
